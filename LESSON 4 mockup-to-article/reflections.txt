@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+This was a review of what I learned on codecademy, which was a nice way to begin this course!  So far it has been easy and fun.  Everything was explained well and I liked being able to validate my code and get Udacity feedback.  I have enjoyed the quizzes, which have helped me understand what was being taught.
